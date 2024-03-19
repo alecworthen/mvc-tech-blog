@@ -9,9 +9,7 @@ This blog post explores the implementation of a Model-View-Controller (MVC) arch
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [About the Author](#about-the-author)
-- [Acknowledgements](#acknowledgements)
 - [Feedback](#feedback)
 - [Conclusion](#conclusion)
 
@@ -53,5 +51,5 @@ Your feedback is valuable! If you have any questions, suggestions, or feedback a
 ## Conclusion
 In conclusion, the MVC architecture provides a robust and scalable framework for developing web applications, as demonstrated in this tech blog project. By following the MVC pattern and leveraging modern web development technologies, we've built a feature-rich blog platform that showcases the power and flexibility of MVC in software engineering.
 
-
+![Blog Image](/public/images/blogimg.PNG)
 
